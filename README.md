@@ -4,9 +4,8 @@
 - Adoro Tecnologias e  Educação Financeira :two_hearts:
 - eliane.mudrei@escola.pr.gov.br
 - ### Estou aprendendo
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
+[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
 <!---
 ProfessoraEliane/ProfessoraEliane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
